@@ -1,0 +1,1 @@
+# UC-6-atividade-11-An-lise-e-Otimiza-o-de-Dados-em-E-commerce-com-Views-
